@@ -13,10 +13,15 @@
 // process.argv[2] is the path
 // process.argv[3] is the string with file extension to filter, ex: 'txt'
 
-	fs.readdir(process.argv[2], function(err, list) {
-	  for (i = 0; i < list.length; i++) {
-	  	if (path.extname(list[i]) === "." + process.argv[3]) {
-	      console.log(list[i]);
-	  	}else{};
-	    }
-	  });
+// SOLUTION 1
+	// readdir takes a pathname as its first argument, a callback as its second
+		fs.readdir(process.argv[2], function(err, list) {
+			// iterate through list of files (list.length)
+		  for (i = 0; i < list.length; i++) {
+		  	// if extension of file at index list[i] matches filter and adds a '.'
+		  	if (path.extname(list[i]) === "." + process.argv[3]) {
+		      // outputs current file from list index[i]
+		      console.log(list[i]);
+		  	}else{};
+		   }
+		 });
