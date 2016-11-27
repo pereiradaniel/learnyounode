@@ -1,5 +1,7 @@
 for (i = 2, sum = 0; i < process.argv.length; i++) {
-	sum += Number(process.argv[i]);
+	// Also works:
+	// sum += Number(process.argv[i]);
+	sum += +process.argv[i];
 	// console.log(sum);
 };
 
