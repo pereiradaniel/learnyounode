@@ -7,6 +7,7 @@
 // Load Buffer List module into bl variable
 	var bl = require('bl');
 
+// Use http.get() to pass URL and act on response to callback
 	http.get(url, function(response) {
 		// Pipe data from response
 			response.pipe(bl(function (err, data) {
