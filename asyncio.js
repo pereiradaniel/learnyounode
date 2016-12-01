@@ -1,8 +1,8 @@
 // fs module required from the Node core library to perform file system operations
-var fs = require('fs');
+  var fs = require('fs');
 
 // Use fs.readFile() instead of fs.readFileSync()
-var file = process.argv[2];
+  var file = process.argv[2];
 
 // Instead of using the return value collect the value from a callback function that you pass in as the second argument.
 
