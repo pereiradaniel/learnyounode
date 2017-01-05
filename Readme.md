@@ -9,6 +9,7 @@ These are my solutions for the Learnyounode tutorial available [here][Learnyouno
 # Breakdown and explanation of each challenge
 
 - [Exercise 1][exercise1]:  Hello world.
+- [Exercise 2][exercise2]:  Baby steps.
 
 
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
@@ -20,3 +21,4 @@ These are my solutions for the Learnyounode tutorial available [here][Learnyouno
 [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
 
 [exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
+[exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
