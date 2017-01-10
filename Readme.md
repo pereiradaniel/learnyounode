@@ -14,6 +14,7 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 
 - [Exercise 1][exercise1]:  Hello world.
 - [Exercise 2][exercise2]:  Baby steps.
+- [Exercise 3][exercise3]:  My first io.
 
 
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
@@ -27,3 +28,4 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 
 [exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
 [exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
+[exercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
