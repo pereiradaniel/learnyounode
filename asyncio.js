@@ -1,7 +1,7 @@
 // fs module required from the Node core library to perform file system operations
   var fs = require('fs');
 
-// Use fs.readFile() instead of fs.readFileSync()
+// Assign the file path to the file variable
   var file = process.argv[2];
 
 // Instead of using the return value collect the value from a callback function that you pass in as the second argument.
@@ -31,3 +31,6 @@
   //  var lines = contents.toString().split('\n').length - 1  
   //  console.log(lines)  
   // }) 
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8
