@@ -17,6 +17,9 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 - [Exercise 3][exercise3]:  My first io.
 - [Exercise 4][exericse4]:  Asynchronous io.
 
+# About Daniel
+
+I am a computer programmer from Scarborough, Ontario.  My interest is in the Rails framework and Node, and full-stack multi platform web development.
 
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
 > Visit my [LinkedIn][linkedinlink] profile.
