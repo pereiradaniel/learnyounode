@@ -1,6 +1,6 @@
 # Learnyounode Solutions
 
-These are my solutions for the Learnyounode tutorial available [here][LearnyounodeLink].
+These are my solutions for the Learnyounode tutorial available [here][LearnyounodeLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
 # Who will this help?
 
