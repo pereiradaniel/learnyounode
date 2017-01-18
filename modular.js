@@ -5,7 +5,7 @@
 	var dir = process.argv[2]
 
 // Load 4th argument from command line into variable filterString
-	var filterString = process.argv[3]
+	var filterString = "." + process.argv[3]
 
 // Run myModule passing it the required info
 //		Function takes:
@@ -24,16 +24,41 @@
 
 // Official solution:
 
-    // var filterFn = require('./solution_filter.js')
-    // var dir = process.argv[2]
-    // var filterStr = process.argv[3]
-
-    // filterFn(dir, filterStr, function (err, list) {
-    //   if (err) {
-    //     return console.error('There was an error:', err)
-    //   }
-
-    //   list.forEach(function (file) {
-    //     console.log(file)
-    //   })
-    // })
+ // ─────────────────────────────────────────────────────────────────────────────  
+ //  _/usr/lib/node_modules/learnyounode/exercises/make_it_modular/solution/sol  
+ //  ution.js_ :  
+   
+ //     var filterFn = require('./solution_filter.js')  
+ //     var dir = process.argv[2]  
+ //     var filterStr = process.argv[3]  
+       
+ //     filterFn(dir, filterStr, function (err, list) {  
+ //       if (err)  
+ //         return console.error('There was an error:', err)  
+       
+ //       list.forEach(function (file) {  
+ //         console.log(file)  
+ //       })  
+ //     })  
+   
+ // ─────────────────────────────────────────────────────────────────────────────  
+ //  _/usr/lib/node_modules/learnyounode/exercises/make_it_modular/solution/sol  
+ //  ution_filter.js_ :  
+   
+ //     var fs = require('fs')  
+ //     var path = require('path')  
+       
+ //     module.exports = function (dir, filterStr, callback) {  
+       
+ //       fs.readdir(dir, function (err, list) {  
+ //         if (err)  
+ //           return callback(err)  
+       
+ //         list = list.filter(function (file) {  
+ //           return path.extname(file) === '.' + filterStr  
+ //         })  
+       
+ //         callback(null, list)  
+ //       })  
+ //     }  
+   

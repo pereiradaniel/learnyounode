@@ -12,7 +12,7 @@
 				return callback(err)
 			// use .filter() to return filtered directory contents to list variable
 			list = list.filter(function (file) {
-				return path.extname(file) === '.' + fileString
+				return path.extname(file) === fileString
 			})
 			callback(null, list)
 		})
