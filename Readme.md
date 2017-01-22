@@ -12,6 +12,8 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 
 # Breakdown and explanation of each challenge
 
+Read my series of blog posts for line-by-line analysis of each step in the tutorial.
+
 - [Exercise 1][exercise1]:  Hello world.
 - [Exercise 2][exercise2]:  Baby steps.
 - [Exercise 3][exercise3]:  My first io.
