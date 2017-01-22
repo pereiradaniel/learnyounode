@@ -1,4 +1,4 @@
-//  Load node http module into http variable
+//  Load Node's http module into http variable
 	var http = require('http');
 
 // Load URL from 1st command line arg into url variable
@@ -6,9 +6,9 @@
 
 // Use http.get() method to pass URL and act on response to callback
 	http.get(url, function(response) {
-		// Convert buffer object to string
+		// Convert buffer object to string with UTF-8 encoding
 			response.setEncoding('utf8')
-		// Respond to data
+		// Respond to data by outputting it to console.log
 			response.on('data', console.log);
 		// Respond to error
 			response.on('error', console.error);

@@ -2,6 +2,7 @@
 
 These are my solutions for the Learnyounode tutorial available [here][LearnyounodeLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
+
 # Who will this help?
 
 The Learnyounode tutorial is a very good introduction for beginner or expert web developers.  A prior knowledge of Javascript is required.  Nodeschool also has a good Javascripting tutorial available on their [page][javascriptingLink].
@@ -9,6 +10,10 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 - Solutions are provided with comments and some alternate solutions.
 - If you would like to see a tutorial video for this please visit my [YouTube][youtubelink] channel, subscribe and leave me a message/comment.
 
+
+# Where to find more Nodeschool tutorials
+
+[Nodeschool][nodeSchoolTutorials]
 
 # Breakdown and explanation of each challenge
 
@@ -35,6 +40,7 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [youtubelink]: <https://www.youtube.com/c/danielpaulgrechpereira>
 [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
+[nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
 
 [exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
 [exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
