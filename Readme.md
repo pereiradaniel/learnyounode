@@ -41,5 +41,4 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [exercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
 [exercise4]: <https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8>
 [exercise5]: <https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4>
-[exercise6]: <
-[exercise6]:
+[exercise6]: <https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej>
