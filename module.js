@@ -17,3 +17,6 @@
 			callback(null, list)
 		})
 	}
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej

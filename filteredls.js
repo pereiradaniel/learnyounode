@@ -40,4 +40,7 @@
 	//    if (path.extname(file) === '.' + process.argv[3])  
 	//      console.log(file)  
 	//  })  
-	// })  
+	// })
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4
