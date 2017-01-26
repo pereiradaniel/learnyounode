@@ -5,7 +5,7 @@ These are my solutions for the Learnyounode tutorial available [here][Learnyouno
 
 # Who will this help?
 
-The Learnyounode tutorial is a very good introduction for beginner or expert web developers.  A prior knowledge of Javascript is required.  Nodeschool also has a good Javascripting tutorial available on their [page][javascriptingLink].
+The Learnyounode tutorial is a very good introduction for beginner or expert web developers.  A prior knowledge of Javascript is required.  Nodeschool also has a good Javascripting tutorial available on their [page][javascriptingLink].  Another good Javascript resource can be found at [w3schools.com][javascriptW3].
 
 - Solutions are provided with comments and some alternate solutions.
 - If you would like to see a tutorial video for this please visit my [YouTube][youtubelink] channel, subscribe and leave me a message/comment.
@@ -42,6 +42,7 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
+[javascriptW3]: <http://www.w3schools.com/js/>
 
 [exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
 [exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
