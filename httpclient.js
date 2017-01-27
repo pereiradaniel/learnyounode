@@ -22,3 +22,6 @@
    //    response.on('data', console.log)
    //    response.on('error', console.error)
    //  }).on('error', console.error)
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj
