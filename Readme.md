@@ -37,25 +37,29 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
 > Visit my [LinkedIn][linkedinlink] profile.
 
-[LearnyounodeLink]: <https://github.com/workshopper/learnyounode>
-[bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
-[youtubelink]: <https://www.youtube.com/c/danielpaulgrechpereira>
-[linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
-[javascriptingLink]: <https://github.com/workshopper/javascripting>
-[nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
-[javascriptW3]: <http://www.w3schools.com/js/>
 
-<!-- Hello world -->
-	[exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
-<!-- Baby steps -->
-	[exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
-<!-- My first io -->
-	[exercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
-<!-- Asynchronous io -->
-	[exercise4]: <https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8>
-<!-- Filtered list -->
-	[exercise5]: <https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4>
-<!-- Make it modular -->
-	[exercise6]: <https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej>
-<!-- HTTP client -->
-	[exercise7]: <https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj>
+<!-- Web Links -->
+
+  [LearnyounodeLink]: <https://github.com/workshopper/learnyounode>
+  [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
+  [youtubelink]: <https://www.youtube.com/c/danielpaulgrechpereira>
+  [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
+  [javascriptingLink]: <https://github.com/workshopper/javascripting>
+  [nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
+  [javascriptW3]: <http://www.w3schools.com/js/>
+
+<!-- Blog links -->
+  <!-- Hello world -->
+  	[exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
+  <!-- Baby steps -->
+  	[exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
+  <!-- My first io -->
+  	[exercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
+  <!-- Asynchronous io -->
+  	[exercise4]: <https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8>
+  <!-- Filtered list -->
+  	[exercise5]: <https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4>
+  <!-- Make it modular -->
+  	[exercise6]: <https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej>
+  <!-- HTTP client -->
+  	[exercise7]: <https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj>
