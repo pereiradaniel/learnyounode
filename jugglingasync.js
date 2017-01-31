@@ -42,7 +42,7 @@
 		})
 	}
 
-// Run httGet as many times as there are URLS
+// Run httpGet as many times as there are URLS
 	for (var i = 0; i < noOfUrls; i++) {
 		httpGet(i)
 	}
@@ -117,3 +117,6 @@
 	    // for (var i = 0; i < 3; i++) {
 	    //   httpGet(i)
 	    // }
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-9-331c9dcd118b#.5dhhxsnk6
