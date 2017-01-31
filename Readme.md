@@ -20,14 +20,15 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 
 Read my series of blog posts for line-by-line analysis of each step in the tutorial.
 
-- [Excercise 1][excercise1]:  Hello world.
-- [Excercise 2][excercise2]:  Baby steps.
-- [Excercise 3][excercise3]:  My first io.
-- [Excercise 4][excercise4]:  Asynchronous io.
-- [Excercise 6][excercise6]:  Make it modular.
-- [Excercise 5][excercise5]:  Filtered list.
-- [Excercise 6][excercise6]:  Make it modular.
-- [Excercise 7][excercise7]:  HTTP client.
+- [Exercise 1][exercise1]:  Hello world.
+- [Exercise 2][exercise2]:  Baby steps.
+- [Exercise 3][exercise3]:  My first io.
+- [Exercise 4][exercise4]:  Asynchronous io.
+- [Exercise 6][exercise6]:  Make it modular.
+- [Exercise 5][exercise5]:  Filtered list.
+- [Exercise 6][exercise6]:  Make it modular.
+- [Exercise 7][exercise7]:  HTTP client.
+- [Exercise 8][exercise8]:  HTTP collect.
 
 
 # About Daniel
@@ -51,11 +52,12 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 
 <!-- Blog links -->
-  
-[excercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
-[excercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
-[excercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
-[excercise4]: <https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8>
-[excercise5]: <https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4>
-[excercise6]: <https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej>
-[excercise7]: <https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj>
+
+	[exercise1]: <https://medium.com/coding-and-web-development/learnyounode-exercise-1-907e214c4f28#.pxzcl7vkt>
+	[exercise2]: <https://medium.com/coding-and-web-development/learnyounode-exercise-2-677f3a9d32f1#.2ls4dyw3t>
+	[exercise3]: <https://medium.com/coding-and-web-development/learnyounode-exercise-3-2aa8d6aba68a#.njwfdxqqt>
+	[exercise4]: <https://medium.com/@pereirawebdev/learnyounode-exercise-4-89a8b2637677#.o9nvapnz8>
+	[exercise5]: <https://medium.com/coding-and-web-development/learnyounode-exercise-5-ba7e4212bd56#.iam1nr6f4>
+	[exercise6]: <https://medium.com/coding-and-web-development/learnyounode-exercise-6-a9079f4e7dac#.un8yevyej>
+	[exercise7]: <https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj>
+	<https://medium.com/coding-and-web-development/learnyounode-exercise-8-7dc7d8431fef#.yr581gl0j>

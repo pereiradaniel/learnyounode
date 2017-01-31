@@ -37,3 +37,6 @@
 	//    console.log(data)
 	//  }))
 	// })
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-8-7dc7d8431fef#.yr581gl0j
