@@ -30,6 +30,7 @@ Read my series of blog posts for line-by-line analysis of each step in the tutor
 - [Exercise 7][exercise7]:  HTTP client.
 - [Exercise 8][exercise8]:  HTTP collect.
 - [Exercise 9][exercise9]:  Juggling async.
+<!-- - [Exercise 10][exercise10]:  Time Server. -->
 
 
 # About Daniel
