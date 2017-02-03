@@ -35,7 +35,7 @@ Read my series of blog posts for line-by-line analysis of each step in the tutor
 
 # About Daniel
 
-I am a computer programmer from Scarborough, Ontario.  My interest is in the Rails framework and Node, and full-stack multi platform web development.
+I am a computer programmer and web developer from Scarborough, Ontario.  My interest is in the Rails framework and Node, and full-stack multi platform web development.
 
 
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
