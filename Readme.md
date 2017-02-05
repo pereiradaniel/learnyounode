@@ -2,6 +2,8 @@
 
 These are my solutions for the Learnyounode tutorial available [here][LearnyounodeLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
+* The solutions for all the exercises are included in the repo with comments, even though the blog series is still being completed.
+
 
 # Who will this help?
 
