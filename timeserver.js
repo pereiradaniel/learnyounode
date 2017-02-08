@@ -4,15 +4,15 @@
 // Load the port number from the first command line argument
   var portNumber = process.argv[2]
 
-// Load the server module into server variable
+// Create a server and load it into the server variable by using net.createServer()
   var server = net.createServer(function (socket) {
-    socket.end(getDate() + "\n");
+    socket.end(getFormattedDate() + "\n");
   })
 
   server.listen(portNumber)
 
-// getDate function returns formatted date and time
-  function getDate() {
+// getFormattedDate function returns formatted date and time
+  function getFormattedDate() {
     // Put current date into variable called today
     var today = new Date();
 
