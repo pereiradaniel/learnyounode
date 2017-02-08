@@ -120,3 +120,7 @@
     //     second: date.getSeconds()
     //   };
     // }
+
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-13-287894077c5f#.t2uyjf2cu
