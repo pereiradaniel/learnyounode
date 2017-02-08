@@ -34,6 +34,7 @@ Read my series of blog posts for line-by-line analysis of each step in the tutor
 - [Exercise 9][exercise9]:  Juggling async.
 - [Exercise 10][exercise10]:  Time Server.
 - [Exercise 11][exercise11]:  HTTP file server.
+- [Exercise 12][exercise12]:  HTTP upper caser.
 
 
 # About Daniel
@@ -69,3 +70,4 @@ I am a computer programmer and web developer from Scarborough, Ontario.  My inte
   [exercise9]: <https://medium.com/coding-and-web-development/learnyounode-exercise-9-331c9dcd118b#.5dhhxsnk6>
   [exercise10]: <https://medium.com/@pereirawebdev/learnyounode-exercise-10-ec922de66c3c#.u57rxlm03>
   [exercise11]: <https://medium.com/@pereirawebdev/learnyounode-exercise-11-a7968480d0fc#.u5qa0gonq>
+  [exercise12]: <https://medium.com/coding-and-web-development/learnyounode-exercise-12-6eacd66e9e30#.dkmo3nndn>

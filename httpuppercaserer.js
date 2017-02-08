@@ -34,3 +34,7 @@
   // })
 
   // server.listen(Number(process.argv[2]))
+
+
+//  Read my blog post for an explanation and breakdown of this challenge:
+//  https://medium.com/coding-and-web-development/learnyounode-exercise-12-6eacd66e9e30#.dkmo3nndn
