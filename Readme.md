@@ -32,7 +32,8 @@ Read my series of blog posts for line-by-line analysis of each step in the tutor
 - [Exercise 7][exercise7]:  HTTP client.
 - [Exercise 8][exercise8]:  HTTP collect.
 - [Exercise 9][exercise9]:  Juggling async.
-<!-- - [Exercise 10][exercise10]:  Time Server. -->
+- [Exercise 10][exercise10]:  Time Server.
+- [Exercise 11][exercise11]:  HTTP file server.
 
 
 # About Daniel
@@ -66,3 +67,5 @@ I am a computer programmer and web developer from Scarborough, Ontario.  My inte
   [exercise7]: <https://medium.com/coding-and-web-development/learnyounode-exercise-7-65019538b96c#.rl1wxpkjj>
   [exercise8]: <https://medium.com/coding-and-web-development/learnyounode-exercise-8-7dc7d8431fef#.yr581gl0j>
   [exercise9]: <https://medium.com/coding-and-web-development/learnyounode-exercise-9-331c9dcd118b#.5dhhxsnk6>
+  [exercise10]: <https://medium.com/@pereirawebdev/learnyounode-exercise-10-ec922de66c3c#.u57rxlm03>
+  [exercise11]: <https://medium.com/@pereirawebdev/learnyounode-exercise-11-a7968480d0fc#.u5qa0gonq>
