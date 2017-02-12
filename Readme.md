@@ -1,11 +1,9 @@
-# Learnyounode Solutions
+# Learnyounode Solutions :innocent:
 
 These are my solutions for the Learnyounode tutorial available [here][LearnyounodeLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
-* The solutions for all the exercises are included in the repo with comments, even though the blog series is still being completed.
 
-
-# Who will this help?
+# Who will this help? :smile:
 
 The Learnyounode tutorial is a very good introduction for beginner or expert web developers.  A prior knowledge of Javascript is required.  Nodeschool also has a good Javascripting tutorial available on their [page][javascriptingLink].  Another good Javascript resource can be found at [w3schools.com][javascriptW3].
 
@@ -13,7 +11,7 @@ The Learnyounode tutorial is a very good introduction for beginner or expert web
 - If you would like to see a tutorial video for this please visit my [YouTube][youtubelink] channel, subscribe and leave me a message/comment.
 
 
-# Where to find more Nodeschool tutorials
+# Where to find more Nodeschool tutorials :computer:
 
 [Nodeschool][nodeSchoolTutorials]
 
@@ -38,7 +36,7 @@ Read my series of blog posts for line-by-line analysis of each step in the tutor
 - [Exercise 13][exercise13]: HTTP JSON API server.
 
 
-# About Daniel
+# About Daniel :godmode:
 
 I am a computer programmer and web developer from Scarborough, Ontario.  My interest is in the Rails framework and Node, and full-stack multi platform web development.
 
