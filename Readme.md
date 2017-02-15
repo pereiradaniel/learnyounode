@@ -7,8 +7,7 @@ These are my solutions for the Learnyounode tutorial available [here][Learnyouno
 
 The Learnyounode tutorial is a very good introduction for beginner or expert web developers.  A prior knowledge of Javascript is required.  Nodeschool also has a good Javascripting tutorial available on their [page][javascriptingLink].  Another good Javascript resource can be found at [w3schools.com][javascriptW3].
 
-- Solutions are provided with comments and some alternate solutions.
-- If you would like to see a tutorial video for this please visit my [YouTube][youtubelink] channel, subscribe and leave me a message/comment.
+> If you would like to see a tutorial video for this please visit my [YouTube][youtubelink] channel, subscribe and leave me a message/comment.
 
 
 # Where to find more Nodeschool tutorials :computer:
